@@ -1,0 +1,8 @@
+(cap)
+(down)
+(up)
+(bin)
+(hex)
+hi (cap) (up, 2) how are u (up, 2) (dow ,2) today (cap, 2    )
+
+1000 (bin) (hex)

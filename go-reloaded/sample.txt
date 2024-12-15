@@ -1,0 +1,8 @@
+In a file called sample.txt, place the following text: If I make you BREAKFAST IN BED (low, 3) just say thank you instead of: how (cap) did you get in my house (up, 2) ?
+
+In a file called sample.txt place the following text: I have to pack 101 (bin) outfits. Packed 1a (hex) just to be sure
+
+n a file called sample.txt place the following text: Don not be sad ,because sad backwards is das . And das not good
+
+In a file called sample.txt place the following text: harold wilson (cap, 2) : ' I am a optimist ,but a optimist who carries a raincoat . '
+
