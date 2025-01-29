@@ -1,0 +1,3 @@
+- if the token is stored in the local storage:
+    - try to modify it.
+    - then try delete it.
