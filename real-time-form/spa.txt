@@ -1,0 +1,4 @@
+- try inter an undefined route, then is ther a buton to return to the home page without refreshing
+- if the token is stored in the local storage:
+    - try to modify it.
+    - then try delete it.

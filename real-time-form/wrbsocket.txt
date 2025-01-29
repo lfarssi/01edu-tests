@@ -1,0 +1,1 @@
+- try to connect to the websocket from an external script (check authorisations)
