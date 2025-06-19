@@ -1,0 +1,21 @@
+1E (hex, 3) files were added to 10 (bin) folders
+(cap) This text has no modifications (up) (low) (cap) (hex) (bin)
+Let's test (up,       3) multiple spaces
+How about (low,0) zero or (up,-1) negative numbers?
+Nested modifications: (up, 2 (low, 1)) should this work?
+Incomplete modifiers: (up (low) (
+Mixed case HEX: 1a3f (hex) should be converted
+A untold story about a hour and a herb
+Punctuation madness: What ?? !? ... ,. ; : ' test ' 's
+That's not how'quotes'work but'let's'see
+(up,9999) will this try to modify more words than exist?
+1010101010101010101010101010 (bin) very long binary
+a e i o u h A E I O U H testing 'a' vs 'an'
+'       ' ' empty quotes
+' multiple' ' wor'ds 'in quotes '.
+(cap, 2) at the end of a sentence. (up, 3) at the start of a sentence.
+This is so exciting (up, 2) !
+Multiple. Sentences . With    . Weird . Spacing   .
+This text has (imaginary) modifiers (hello) (world) (up)
+'  "Don't outcome it it's a aaa a à éé é àà larm ' '
+'                '    '
