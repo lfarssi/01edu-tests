@@ -28,6 +28,7 @@ rm -r ..
 ```bash
 rm -r ./.
 rm -r ./..
+rm -r ././.
 # ❌ Refused: these are equivalent to '.' and '..'
 # Output: rm: refusing to remove '.' or '..' directory: skipping './.'
 ```
@@ -105,3 +106,5 @@ rm -r symlink_to_root symlink_to_parent
 # ✅ Symlinks themselves can be deleted — this is allowed
 # ⚠️ But don't follow them recursively
 ```
+
+
